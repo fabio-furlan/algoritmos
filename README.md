@@ -1,2 +1,2 @@
 # algoritmos
-Exercícios de algoritmos do livro Introdução a Programação
+Exercícios de Algoritmos do Livro Introdução a Programação.
